@@ -8,7 +8,6 @@ For SimpleEssentials you need not only the plugin itself but also Vault.
 [Vault](https://www.spigotmc.org/resources/vault.34315/)
 [SimpleEssentials](https://www.spigotmc.org/resources/simpleessentials.18397/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Wiki page
 
